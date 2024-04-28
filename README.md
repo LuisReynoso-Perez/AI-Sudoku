@@ -5,4 +5,7 @@ External libraries used: numpy, sortedcontainers. Be sure these are downloaded a
 # Read Me
 
 ### Sudoku Solver
+This repository contains a Sudoku solver implemented in Python. The solver uses a combination of constraint propagation and backtracking search to find a solution to a given Sudoku puzzle.
+
+
 
