@@ -23,6 +23,7 @@ This code provides a Sudoku puzzle solver using Constraint Satisfaction Problems
 
 ### Dependencies
 **utilspy**: Contains utility functions used throughout the code.
+
 **csp.py**: Contains the CSP class and related functions for solving constraint satisfaction problems.
 To install the required libraries make sure you run the following command: 
 
