@@ -32,5 +32,6 @@ To install the required libraries make sure you run the following command:
 * Save the provided code in a file named main.py.
 * Run the code using the command:
 *   python main.py
+
 The output will display the initial and solved states of the Sudoku puzzles as well as the time taken for the AC3 algorithm and backtracking search to execute.
 
