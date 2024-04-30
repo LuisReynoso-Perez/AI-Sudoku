@@ -11,7 +11,7 @@ This code provides a Sudoku puzzle solver using Constraint Satisfaction Problems
 * Measure the time taken for the AC3 algorithm to execute.
 * Create a harder Sudoku problem instance.
 * Apply the AC3 algorithm for constraint propagation, but it doesn't fully solve the problem.
-* Perform backtracking search with the MRV heuristic and forward checking for inference.
+* Perform backtracking search with the Minimum Remaining Values heuristic and forward checking for inference.
 * Display the harder Sudoku puzzle after applying backtracking search.
 * Measure the time taken for backtracking search to execute.
 
