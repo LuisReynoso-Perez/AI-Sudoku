@@ -31,6 +31,12 @@ To install the required libraries make sure you run the following commands:
 * pip **install** numpy
 * pip **install** sortedcontainers
 
+To install the required libraries for the image recognition, run the following commands:
+
+pip install torch
+pip install torchvision
+pip install matplotlib
+
 ### Usage
 * Save the provided code in a file named main.py.
 * Run the code using the command:
