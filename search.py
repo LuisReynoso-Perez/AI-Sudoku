@@ -1307,7 +1307,7 @@ cubes16 = ['FORIXB', 'MOQABJ', 'GURILW', 'SETUPL',
            'ANEDVZ', 'PINESH', 'ABILYT', 'GKYLEU']
 
 
-# boggle solver function; not needed at the moment
+# boggle solver function; implemented if needed
 def boggle_hill_climbing(board=None, ntimes=100, verbose=True):
     """Solve inverse Boggle by hill-climbing: find a high-scoring board by
     starting with a random one and changing it."""
