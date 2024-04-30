@@ -38,3 +38,6 @@ To install the required libraries make sure you run the following commands:
 
 The output will display the initial state, post-ac3, and solved states of the Sudoku puzzles as well as the time taken for the AC3 algorithm and backtracking search to execute.
 
+### References
+* [Solving Sudoku From Image Using Deep Learning – With Python Code](https://www.analyticsvidhya.com/blog/2021/05/solving-sudoku-from-image-using-deep-learning-with-python-code/)
+* [Python implementation of algorithms from Russell and Norvig's "Artificial Intelligence: A Modern Approach"](https://github.com/aimacode/aima-python)
