@@ -1,4 +1,3 @@
-External libraries used: numpy, sortedcontainers. Be sure these are downloaded as well.
 
 # Read Me
 
@@ -18,21 +17,24 @@ This code provides a Sudoku puzzle solver using Constraint Satisfaction Problems
 
 ### Requirements
 * Python 3.x
-*  Make sure all  files are in the same folder
-*  Run main.py
+
 
 ### Dependencies
+
+
 **utilspy**: Contains utility functions used throughout the code.
 
-**csp.py**: Contains the CSP class and related functions for solving constraint satisfaction problems.
-To install the required libraries make sure you run the following command: 
+**csp.py**: Contains the CSP class and related functions for solving constraint satisfaction problems. Sudoku is just one possible type of CSP but the code in CSP.py can be expanded to any type of CSP.
+
+To install the required libraries make sure you run the following commands: 
 
 * pip **install** numpy
+* pip **install** sortedcontainers
 
 ### Usage
 * Save the provided code in a file named main.py.
 * Run the code using the command:
 *   python main.py
 
-The output will display the initial and solved states of the Sudoku puzzles as well as the time taken for the AC3 algorithm and backtracking search to execute.
+The output will display the initial state, post-ac3, and solved states of the Sudoku puzzles as well as the time taken for the AC3 algorithm and backtracking search to execute.
 
